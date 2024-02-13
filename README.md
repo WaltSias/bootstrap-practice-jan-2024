@@ -4,7 +4,7 @@ A place for me to practice and demo the Bootstrap CSS Framework.
 
 ## About
 
-This is a website about...
+This is a website about Buttons
 
 It contains one page:
 
@@ -29,7 +29,7 @@ It contains one page:
 
 ## Contact
 
-Author: 
+Author: Walter Sias walt.sias@gmial.com
 
 ## Acknowledgements
 
