@@ -23,8 +23,9 @@ It contains one page:
 ## Roadmap
 
 - [x] buttons.html - the HTML page to work on buttons that respond with JavaScript to clicks
-- [ ] buttons.js - contains the actual code to make the buttons live
-- [ ] buttons.css - contains classes to style the buttons
+- [x] buttons.js - contains the actual code to make the buttons live
+- [x] buttons.css - contains classes to style the buttons
+- [x] added styled-buttons files, css, html, js for bootstrap
 
 
 ## Contact
