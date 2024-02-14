@@ -1,4 +1,5 @@
 Press3.onclick = function () {
-    Press3.style.color = "blue";
+    alert("thanks!")
+    Press3.style.color = "red";
     Press3.stlye.padding = "10px";
 }
