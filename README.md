@@ -33,7 +33,7 @@ It contains one page:
 
 Author: Walter Sias walt.sias@gmial.com
 
-## Acknowledgements
+## Acknowledgements - I would like to thank Louis and Nick, virtually for the help, specifically Nick he helped me on the .js.
 
 - https://getbootstrap.com/
 - https://www.w3schools.com/cssref/sel_class.php
