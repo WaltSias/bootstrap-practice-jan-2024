@@ -26,6 +26,7 @@ It contains one page:
 - [x] buttons.js - contains the actual code to make the buttons live
 - [x] buttons.css - contains classes to style the buttons
 - [x] added styled-buttons files, css, html, js for bootstrap
+- [x] added bootstrap to html for styling
 
 
 ## Contact
