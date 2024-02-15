@@ -27,6 +27,8 @@ It contains one page:
 - [x] buttons.css - contains classes to style the buttons
 - [x] added styled-buttons files, css, html, js for bootstrap
 - [x] added bootstrap to html for styling
+- [x] added new html files, list-group, grid and card files 
+- [x] added list to the list-group file
 
 
 ## Contact
