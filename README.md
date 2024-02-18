@@ -29,13 +29,14 @@ It contains one page:
 - [x] added bootstrap to html for styling
 - [x] added new html files, list-group, grid and card files 
 - [x] added list to the list-group file
+- [x] added some cards to the card files and grids
 
 
 ## Contact
 
 Author: Walter Sias walt.sias@gmial.com
 
-## Acknowledgements - I would like to thank Louis and Nick, virtually for the help, specifically Nick he helped me on the .js.
+## Acknowledgements - I would like to thank Louis and Nick, virtually for the help, specifically Nick he helped me on the .js, and Louis for the help with trying out the code also. 
 
 - https://getbootstrap.com/
 - https://www.w3schools.com/cssref/sel_class.php
